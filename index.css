@@ -1,0 +1,12 @@
+body {
+  /* --background: #005db8; */
+  /* background: var(--background); */
+}
+
+.carousel-indicators > li {
+  background-color: var(--bs-gray-300);
+}
+
+.carousel-indicators > li.active {
+  background-color: var(--bs-primary);
+}
